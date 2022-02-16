@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3027594021
+CRC: 1688580088
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9a8bb966ce5c3348c2224b4001806c2a
+    Hash: b5844bc6d81d5010310584fe4929de8c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 06cf3927dd0d89d0bcf6288089e3ed87
@@ -136,6 +136,7 @@ Assets:
 - Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Prefabs/HandsNotification.prefab
 - Assets/Oculus/VR/Prefabs/OVRCameraRig.prefab
 - Assets/Oculus/VR/Prefabs/OVRControllerPrefab.prefab
+- Assets/BlackBull/Prefab/Bull.prefab
 - Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Prefabs/FarFieldItems.prefab
 - Assets/Oculus/SampleFramework/Core/HandsInteraction/Prefabs/FingerTipPokeToolThumb.prefab
 - Assets/Oculus/SampleFramework/Core/HandsInteraction/Prefabs/FingerTipPokeToolPinky.prefab

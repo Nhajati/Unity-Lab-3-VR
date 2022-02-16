@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 881512164
+CRC: 4069557484
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 36482eebafa4a6ce294fc056baf49282
+    Hash: 8dd58332ae934786b7d7ab91239326a9
   TypeTreeHash:
     serializedVersion: 2
     Hash: d86b4d49cb6c942ed1b98c4d699b6502
@@ -46,5 +46,6 @@ Assets:
 - Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Models/ControllerBox.FBX
 - Assets/Oculus/VR/Meshes/OculusTouchForRift/left_touch_controller_model_skel.fbx
 - Assets/Oculus/VR/Meshes/OculusTouchForRift/right_touch_controller_model_skel.fbx
+- Assets/BlackBull/Model/Bull.FBX
 Dependencies:
 - D:/Uni - BC/Courses/IGS 520 Immersive Tech/Learning/OculusLearning/OVRAssetBundles/OVRMasterBundle/asset_mat0

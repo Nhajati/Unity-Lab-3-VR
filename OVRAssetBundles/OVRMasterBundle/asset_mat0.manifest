@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 986148611
+CRC: 1132963662
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3c28b4be54654ea33d7431d1e510002c
+    Hash: 4805969d2fa31a5e35ee9a646cdc1ddb
   TypeTreeHash:
     serializedVersion: 2
     Hash: 41f5e68da31a4f6b36e45572326352d3
@@ -23,8 +23,10 @@ Assets:
 - Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Materials/OculusTouchForQuestAndRiftS_Material.mat
 - Assets/Oculus/VR/Materials/BasicHandMaterial.mat
 - Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/WindmillMaterial.mat
-- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/ControllerBox.mat
+- Assets/BlackBull/Material/EyeBall.mat
+- Assets/BlackBull/Material/Bull.mat
 - Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/SkyboxForRealtime.mat
+- Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/ControllerBox.mat
 - Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/SelectionCylinder.mat
 - Assets/Oculus/SampleFramework/Core/HandsInteraction/Materials/TargetMaterial.mat
 - Assets/Oculus/SampleFramework/Core/HandsInteraction/Materials/SystemGestureSkeletonBoneMaterial.mat
@@ -32,6 +34,7 @@ Assets:
 - Assets/Oculus/SampleFramework/Core/HandsInteraction/Materials/SystemGestureHandMaterial.mat
 - Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/HandsNotificationMaterial.mat
 - Assets/Oculus/SampleFramework/Core/HandsInteraction/Materials/RayMaterial.mat
+- Assets/BlackBull/Material/Tail.mat
 - Assets/Oculus/VR/Meshes/OculusTouchForRift/Materials/OculusTouchForRift_Material.mat
 - Assets/Oculus/SampleFramework/Core/HandsInteraction/Materials/PokeMaterial.mat
 - Assets/Oculus/SampleFramework/Core/HandsInteraction/Materials/DefaultHandMaterial.mat
@@ -41,6 +44,7 @@ Assets:
 - Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/ControllerBoxButtons.mat
 - Assets/Oculus/SampleFramework/Core/HandsInteraction/Materials/SkeletonBoneMaterial.mat
 - Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/PropMaterial.mat
+- Assets/BlackBull/Material/Eyelash.mat
 - Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/ControllerBoxGlow.mat
 - Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/SelectionCylinderBase.mat
 - Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Materials/GridMat.mat

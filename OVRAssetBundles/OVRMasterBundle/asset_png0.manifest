@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 177669312
+CRC: 4191698771
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 5135b8cdf0c7f2d7f58ac05d70962cca
+    Hash: d9ffa36f73784d215546ded4c6bc2869
   TypeTreeHash:
     serializedVersion: 2
     Hash: e6e651bdddca608c77d51fff2e12d033
@@ -18,12 +18,17 @@ Assets:
 - Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/diorama_paint_diorama_main_elements_DiffuseGlossiness.png
 - Assets/Oculus/VR/Textures/HandTracking/HandTracking_uvmap_2048.png
 - Assets/Oculus/SampleFramework/Usage/HandsTrainExample/TrainScene/Lightmap-1_comp_dir.png
+- Assets/BlackBull/Texture/EyeBallHeight.png
 - Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/diorama_paint_diorama_bg_elements_Normal.png
 - Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/diorama_paint_diorama_main_elements_Normal.png
 - Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/ControllerBoxTextures/controller_plain_Normal.png
+- Assets/BlackBull/Texture/BullLowModel_MetallicSmoothness.png
 - Assets/Oculus/SampleFramework/Usage/HandsTrainExample/TrainScene/ReflectionProbe-0.png
+- Assets/BlackBull/Texture/EyeBallNormal.png
 - Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/XingLight.png
+- Assets/BlackBull/Texture/EyeBallDiffuse.png
 - Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/selection_cylinder.png
+- Assets/BlackBull/Texture/BullLowModel_Normal.png
 - Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/HandsNotification.png
 - Assets/Oculus/VR/Textures/OculusTouchForRift/touchController_albedo.png
 - Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/ControllerBoxTextures/controller_plain_DiffuseGlossiness.png
@@ -32,5 +37,7 @@ Assets:
 - Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/grid_10x10_v4.png
 - Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/selection_cylinder_filled.png
 - Assets/Oculus/SampleFramework/Usage/HandsTrainExample/TrainScene/Lightmap-0_comp_dir.png
+- Assets/BlackBull/Texture/EyeBallEmissive.png
+- Assets/BlackBull/Texture/BullLowModel_AlbedoTransparency.png
 - Assets/Oculus/SampleFramework/Usage/HandsTrainExample/Textures/diorama_paint_diorama_bg_elements_DiffuseGlossiness.png
 Dependencies: []

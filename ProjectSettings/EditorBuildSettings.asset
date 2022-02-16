@@ -8,9 +8,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
+  - enabled: 0
     path: Assets/Oculus/SampleFramework/Usage/HandsInteractionTrainScene.unity
     guid: a9c41884ef0c347628dfd8a4af4a022e
+  - enabled: 1
+    path: Assets/MyScene.unity
+    guid: 41b6bbe91130cd742a18b80f0778ce7a
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 3753f1b261512fd4cb06f5f430d1002e, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 84500ea66e92a0940a643ff967307c84, type: 2}
