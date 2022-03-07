@@ -1,8 +1,5 @@
 Library/
 Temp/
-Assets/SamplesResources/
 *.temp
-*.apk
 Assets/Oculus/LipSync/Plugins/MacOSX
 Assets/Oculus/LipSync/Plugins/iOS
-Assets/Oculus/SampleFramework
